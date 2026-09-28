@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/boltcase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bolt list/case set operations for shell-friendly data wrangling.",
+  "bin": {
+    "boltcase": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/boltcase.git"
+  },
+  "homepage": "https://theworker02.github.io/boltcase/",
+  "keywords": [
+    "bolt",
+    "case",
+    "list",
+    "cli",
+    "toolkit"
+  ]
+}
